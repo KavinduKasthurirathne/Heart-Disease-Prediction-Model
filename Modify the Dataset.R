@@ -27,4 +27,3 @@ boxplot(df$age)
 
 # Scatterplot
 plot(df$age, df$chol)
-
